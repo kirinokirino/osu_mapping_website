@@ -1,5 +1,7 @@
 # My kinda-college project
 
+https://kirinokirino.github.io/osu_mapping_website/
+
 In here some sort of guide to mapping in static web-site.
 Basic stuff, using my css and html with some osu-pictures and screenshots.
 
