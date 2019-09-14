@@ -1,8 +1,3 @@
-# My kinda-college project
+# Simple web-site I made in college. Only third of the content is there.
 
 https://kirinokirino.github.io/osu_mapping_website/
-
-In here some sort of guide to mapping in static web-site.
-Basic stuff, using my css and html with some osu-pictures and screenshots.
-
-Site is mostly finished, content is not. And won't be, probably, I'm not playing/mapping that much.
